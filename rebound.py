@@ -1,3 +1,5 @@
+# AUTHORS: Philos Kim, Will Cooper, Albert Liu
+
 import rebound
 import numpy as np
 import pandas as pd
